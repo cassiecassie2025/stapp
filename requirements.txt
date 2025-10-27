@@ -1,0 +1,17 @@
+streamlit==1.31.0
+pandas==2.1.4
+numpy==1.26.3
+plotly==5.18.0
+openai==1.10.0
+python-dotenv>=1.0.0
+pydantic==2.5.0
+loguru==0.7.2
+matplotlib>=3.0.0
+
+# RAG方案A: FAISS (推荐)
+# faiss-cpu==1.7.4
+# sentence-transformers==2.3.1
+
+# RAG方案B: BM25 (轻量级，暂时使用)
+rank-bm25==0.2.2
+jieba==0.42.1

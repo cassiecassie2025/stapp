@@ -1,0 +1,4 @@
+﻿resource_position,max_capacity,cost_per_10k,elasticity
+首页位1,0.8,150,0.12
+首页位3,0.7,100,0.1
+详情页推荐,0.6,60,0.08

@@ -1,0 +1,7 @@
+﻿segment,active_level,membership_status,size,content_preference,avg_watch_time,price_sensitivity,historical_cvr,avg_arpu_contribution
+家庭向高活跃,high,non_member,860000,家庭剧,180,low,0.185,0.012
+动漫偏好沉默,low,expired,230000,动漫,45,high,0.082,0.005
+轻活跃用户,medium,member,450000,综艺,90,medium,0.145,0.009
+家庭剧铁粉,high,member,320000,家庭剧,240,low,0.22,0.015
+儿童动画家长,medium,non_member,180000,动漫,120,medium,0.165,0.01
+综艺轻度用户,low,non_member,290000,综艺,60,high,0.095,0.006
